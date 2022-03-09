@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="gt_coa_template" model="account.chart.template">
+            <field name="name">Catálogo de Cuentas para Guatemala</field>
+            <field name="currency_id" ref="base.GTQ"/>
+            <field name="code_digits">6</field>
+            <field name="bank_account_code_prefix">1001</field>
+            <field name="cash_account_code_prefix">1000</field>
+            <field name="transfer_account_code_prefix">1002</field>
+            
+        </record>
+    </data>
+</odoo>

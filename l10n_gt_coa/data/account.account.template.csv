@@ -1,0 +1,237 @@
+id,code,name,user_type_id/id,chart_template_id/id,reconcile
+1009,1009,Otros Equivalentes de Efectivo,account.data_account_type_liquidity,l10n_gt_coa.gt_coa_template,False
+1010,1010,Depósitos a Corto Plazo,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1011,1011,Inversiones a Corto Plazo,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1019,1019,Otros Valores Negociables a Corto Plazo,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1100,1100,Cuentas por Cobrar de Clientes Comerciales,account.data_account_type_receivable,l10n_gt_coa.gt_coa_template,True
+1101,1101,Cuentas por Cobrar de Clientes Comerciales (Punto de Venta),account.data_account_type_receivable,l10n_gt_coa.gt_coa_template,True
+1110,1110,Cuentas por Cobrar de Partes Relacionadas,account.data_account_type_receivable,l10n_gt_coa.gt_coa_template,True
+1111,1111,Cuentas por Cobrar de Empleados,account.data_account_type_receivable,l10n_gt_coa.gt_coa_template,True
+1112,1112,Cuentas por Cobrar de Otras Partes,account.data_account_type_receivable,l10n_gt_coa.gt_coa_template,True
+1119,1119,Otras Cuentas y Documentos por Cobrar,account.data_account_type_receivable,l10n_gt_coa.gt_coa_template,True
+1190,1190,Provisión Cuentas Incobrables Clientes Comerciales,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1191,1191,Provisión Cuentas por Cobrar de Partes Relacionadas,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1192,1192,Provisión Cuentas por Cobrar de Otras Partes,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1199,1199,Provisión Otras Cuentas y Documentos por Cobrar,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1200,1200,Inventario de Mercancías y Producto Terminado,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1201,1201,Inventario en Tránsito,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1202,1202,Inventario Entregado en Consignación,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,True
+1210,1210,Producto Terminado no Disponible para la Venta,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1211,1211,Materias Primas y Suministros de Producción,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1212,1212,Materiales de Embalaje y Almacenamiento,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1219,1219,Otros Consumibles de Producción,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,False
+1280,1280,Crédito Fiscal por Impuesto al Valor Agregado,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,True
+1281,1281,Crédito Fiscal por Impuesto Sobre la Renta,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,True
+1282,1282,Crédito Fiscal por Provisiones Tributarias,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,True
+1283,1283,Crédito Fiscal por Impuesto de Solidaridad,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,True
+1284,1284,Crédito Fiscal por Pagos Trimestrales a Cuenta del ISR,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,True
+1289,1289,Otros Activos por Impuestos Corrientes,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,True
+1299,1299,Otros Activos Corrientes,account.data_account_type_current_assets,l10n_gt_coa.gt_coa_template,True
+1300,1300,Anticipos y Prepagos Comerciales,account.data_account_type_prepayments,l10n_gt_coa.gt_coa_template,False
+1301,1301,Alquileres Prepagados,account.data_account_type_prepayments,l10n_gt_coa.gt_coa_template,False
+1302,1302,Depósitos Entregados en Garantía,account.data_account_type_prepayments,l10n_gt_coa.gt_coa_template,False
+1303,1303,Anticipos para Adquisición de Activos,account.data_account_type_prepayments,l10n_gt_coa.gt_coa_template,False
+1304,1304,Gastos Pagados por Anticipado,account.data_account_type_prepayments,l10n_gt_coa.gt_coa_template,False
+1305,1305,Anticipo de Prestaciones Laborales,account.data_account_type_prepayments,l10n_gt_coa.gt_coa_template,False
+1306,1306,Seguros Pagados por Anticipado,account.data_account_type_prepayments,l10n_gt_coa.gt_coa_template,False
+1309,1309,Otros Anticipos y Prepagos Realizados,account.data_account_type_prepayments,l10n_gt_coa.gt_coa_template,False
+1400,1400,Terrenos y Bienes Naturales,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1401,1401,Edificios e Instalaciones,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1402,1402,Mobiliario y Accesorios,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1403,1403,Equipos y Herramientas,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1404,1404,Maquinaria y Vehículos,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1405,1405,Equipos y Programas de Computación,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1406,1406,Propiedades en Construcción,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1409,1409,Otros Activos Fijos,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1410,1410,Depreciación Acumulada Terrenos y Bienes Naturales,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1411,1411,Depreciación Acumulada Edificios e Instalaciones,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1412,1412,Depreciación Acumulada Mobiliario y Accesorios,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1413,1413,Depreciación Acumulada Equipos y Herramientas,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1414,1414,Depreciación Acumulada Maquinaria y Vehículos,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1415,1415,Depreciación Acumulada Equipos y Programas de Computación,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1416,1416,Depreciación Acumulada Propiedades en Construcción,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1419,1419,Depreciación Acumulada Otros Activos Fijos,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1420,1420,Mejoras en Propiedad,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1421,1421,Mejoras en Propiedad Arrendada,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1430,1430,Depreciación Acumulada por Mejoras en Propiedad,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1431,1431,Depreciación Acumulada por Mejoras en Propiedad Arrendada,account.data_account_type_fixed_assets,l10n_gt_coa.gt_coa_template,False
+1500,1500,Depósitos a Largo Plazo,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1501,1501,Inversiones a Largo Plazo,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1509,1509,Otros Instrumentos Financieros de Inversión a Largo Plazo,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1510,1510,"Inversión en Investigación, Desarrollo y Organización",account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1511,1511,"Patentes, Marcas y Otros Derechos",account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1512,1512,Software y Desarrollo IT,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1513,1513,Licencias y Franquicias,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1514,1514,"Fórmulas, Modelos, Diseños y Prototipos",account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1515,1515,Contratos y Otros Derechos Adquiridos con Clientes y Proveedores,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1519,1519,Otros Activos Intangibles,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1520,1520,"Amortización Acumulada de Inversión en Investigación, Desarrollo y Organización",account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1521,1521,"Amortización Acumulada de Patentes, Marcas y Otros Derechos",account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1522,1522,Amortización Acumulada de Software y Desarrollo IT,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1523,1523,Amortización Acumulada de Licencias y Franquicias,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1524,1524,"Amortización Acumulada de Fórmulas, Modelos, Diseños y Prototipos",account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1525,1525,Amortización Acumulada de Contratos y Otros Derechos Adquiridos con Clientes y Proveedores,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1529,1529,Amortización Acumulada de Otros Activos Intangibles,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1580,1580,Crédito Fiscal Diferido por Impuesto Sobre la Renta,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1581,1581,Crédito Fiscal Diferido por Provisiones Tributarias,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1589,1589,Otros Activos por Impuestos Corrientes Diferidos,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+1599,1599,Otros Activos No Corrientes,account.data_account_type_non_current_assets,l10n_gt_coa.gt_coa_template,False
+2000,2000,Prestamos Bancarios,account.data_account_type_payable,l10n_gt_coa.gt_coa_template,True
+2009,2009,Otros Préstamos Corrientes,account.data_account_type_payable,l10n_gt_coa.gt_coa_template,True
+2019,2019,Otras Obligaciones Financieras Corrientes,account.data_account_type_payable,l10n_gt_coa.gt_coa_template,True
+2100,2100,Cuentas por Pagar de Proveedores Comerciales,account.data_account_type_payable,l10n_gt_coa.gt_coa_template,True
+2110,2110,Cuentas por Pagar de Partes Relacionadas,account.data_account_type_payable,l10n_gt_coa.gt_coa_template,True
+2111,2111,Cuentas por Pagar de Otras Partes,account.data_account_type_payable,l10n_gt_coa.gt_coa_template,True
+2119,2119,Otras Cuentas por Pagar,account.data_account_type_payable,l10n_gt_coa.gt_coa_template,True
+2202,2202,Inventario Recibido en Consignación,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,True
+2280,2280,Débito Fiscal por Impuesto al Valor Agregado,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2281,2281,Débito Fiscal por Impuesto Sobre la Renta,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2282,2282,Débito Fiscal por Provisiones Tributarias,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2289,2289,Otros Pasivos por Impuestos Corrientes,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2299,2299,Otros Pasivos Corrientes,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2300,2300,Anticipos y Prepagos Comerciales Recibidos,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2400,2400,Provisión por Bonificaciones de Ley,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2401,2401,Provisión por Aguinaldos,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2402,2402,Provisión por Vacaciones,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2409,2409,Otras Provisiones Laborales,account.data_account_type_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2500,2500,Prestamos Bancarios a Largo Plazo,account.data_account_type_non_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2509,2509,Otros Préstamos no Corrientes,account.data_account_type_non_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2519,2519,Otras Obligaciones Financieras no Corrientes,account.data_account_type_non_current_liabilities,l10n_gt_coa.gt_coa_template,False
+2599,2599,Otros Pasivos no Corrientes,account.data_account_type_non_current_liabilities,l10n_gt_coa.gt_coa_template,False
+3000,3000,Capital Social Autorizado,account.data_account_type_equity,l10n_gt_coa.gt_coa_template,False
+3001,3001,Capital Social en Acciones por Suscribir,account.data_account_type_equity,l10n_gt_coa.gt_coa_template,False
+3002,3002,Capital Social en Acciones Suscritas y Pagadas,account.data_account_type_equity,l10n_gt_coa.gt_coa_template,False
+3003,3003,Aportes por Capitalizar,account.data_account_type_equity,l10n_gt_coa.gt_coa_template,False
+3010,3010,Reserva Legal,account.data_account_type_equity,l10n_gt_coa.gt_coa_template,False
+3011,3011,Utilidad (Pérdida) Acumulada Períodos Anteriores,account.data_account_type_equity,l10n_gt_coa.gt_coa_template,False
+3019,3019,Otras Reservas Acumuladas,account.data_account_type_equity,l10n_gt_coa.gt_coa_template,False
+3100,3100,Utilidad (Pérdida) del Período,account.data_unaffected_earnings,l10n_gt_coa.gt_coa_template,False
+4000,4000,Ingresos por Venta de Bienes,account.data_account_type_revenue,l10n_gt_coa.gt_coa_template,False
+4001,4001,Ingresos por Prestación de Servicios,account.data_account_type_revenue,l10n_gt_coa.gt_coa_template,False
+4002,4002,Ingresos por Comisiones,account.data_account_type_revenue,l10n_gt_coa.gt_coa_template,False
+4009,4009,Otros Ingresos por Actividades Ordinarias,account.data_account_type_revenue,l10n_gt_coa.gt_coa_template,False
+4100,4100,Devoluciones por Venta de Bienes,account.data_account_type_revenue,l10n_gt_coa.gt_coa_template,False
+4101,4101,Devoluciones por Prestación de Servicios,account.data_account_type_revenue,l10n_gt_coa.gt_coa_template,False
+4102,4102,Descuentos por Ventas,account.data_account_type_revenue,l10n_gt_coa.gt_coa_template,False
+4109,4109,Otros Descuentos y Devoluciones por Actividades Ordinarias,account.data_account_type_revenue,l10n_gt_coa.gt_coa_template,False
+4900,4900,Ingresos por Diferencia Cambiaria,account.data_account_type_other_income,l10n_gt_coa.gt_coa_template,False
+4901,4901,Ingresos por Intereses,account.data_account_type_other_income,l10n_gt_coa.gt_coa_template,False
+4902,4902,Ingresos por Dividendos,account.data_account_type_other_income,l10n_gt_coa.gt_coa_template,False
+4909,4909,Otros Ingresos Financieros,account.data_account_type_other_income,l10n_gt_coa.gt_coa_template,False
+4910,4910,Ingresos por Sobrante de Caja,account.data_account_type_other_income,l10n_gt_coa.gt_coa_template,False
+4911,4911,Ingresos por Venta de Activos,account.data_account_type_other_income,l10n_gt_coa.gt_coa_template,False
+4912,4912,Ingresos por Cobro de Cuentas Incobrables,account.data_account_type_other_income,l10n_gt_coa.gt_coa_template,False
+4919,4919,Otros Ingresos Varios,account.data_account_type_other_income,l10n_gt_coa.gt_coa_template,False
+5000,5000,Costo de Productos Para la Venta,account.data_account_type_direct_costs,l10n_gt_coa.gt_coa_template,False
+5010,5010,Costos de Importación,account.data_account_type_direct_costs,l10n_gt_coa.gt_coa_template,False
+6000,6000,Sueldos y Salarios Ordinarios,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6001,6001,Sueldos y Salarios Extraordinarios,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6002,6002,Comisiones ,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6003,6003,Bonificaciones Por Productividad,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6004,6004,Bonificaciones De Ley,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6005,6005,Vacaciones,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6006,6006,Cuotas Patronales y Seguridad Social,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6007,6007,Indemnizaciones y Cesantías,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6009,6009,Otros Beneficios Monetarios de Personal,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6010,6010,Seguro Privado,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6011,6011,Subvención de Transporte y Combustible,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6012,6012,Diplomados y Capacitaciones Relevantes al Giro del Negocio,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6019,6019,Otros Beneficios No Monetarios de Personal,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6100,6100,Auditoría Contable y Financiera,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6101,6101,Asesoría Jurídica y Legal,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6102,6102,Reclutamiento y Contratación,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6103,6103,Honorarios Profesionales,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6109,6109,Otros Gastos Por Honorarios,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6110,6110,Personal Subcontratado,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6119,6119,Otros Gastos de Tercerización de Personal,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6200,6200,Arrendamiento de Terrenos y Bienes Naturales,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6201,6201,Arrendamiento de Edificios e Instalaciones,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6202,6202,Arrendamiento de Mobiliario y Accesorios,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6203,6203,Arrendamiento Equipos y Herramientas,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6203,6204,Arrendamiento de Maquinaria y Vehículos,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6209,6209,Otros Gastos por Alquileres y Arrendamientos,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6210,6210,Servicio de Agua,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6211,6211,Servicio de Energía Eléctrica,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6212,6212,Servicio de Extracción de Basura y Reciclaje,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6213,6213,Servicio de Limpieza e Higienización,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6215,6215,Servicio de Mensajería,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6219,6219,Otros Gastos por Servicios Generales,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6220,6220,Servicio de Reparación y Mantenimiento de Edificios e Instalaciones,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6221,6221,Servicio de Reparación y Mantenimiento de Mobiliario,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6222,6222,Servicio de Reparación y Mantenimiento de Equipos,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6223,6223,Servicio de Reparación y Mantenimiento de Maquinaria y Vehículos,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6229,6229,Otros Servicios de Reparación y Mantenimiento,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6230,6230,Servicio de Cable e Internet,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6231,6231,Servicio de Comunicaciones Fijas,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6232,6232,Servicio de Comunicaciones Móviles,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6233,6233,Servicios en la Nube,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6234,6234,Servicios de Software (SAAS),account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6239,6239,Otros Gastos de Tecnología y Comunicaciones,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6240,6240,Servicio de Seguridad Privada,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6241,6241,Servicio de Alarma y Monitoreo,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6249,6249,Otros Gastos de Seguridad y Vigilancia,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6250,6250,Suministros y Consumibles de Oficina,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6251,6251,Suministros y Consumibles de Limpieza e Higienización,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6252,6252,Suministros y Consumibles de Reparación y Mantenimiento,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6259,6259,Otros Gastos por Suministros y Consumibles,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6260,6260,Servicios Legales y Notariales,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6261,6261,Servicios Contables,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6269,6269,Otros Servicios Profesionales,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6270,6270,Combustibles y Lubricantes,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6300,6300,Gastos de Representación,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6301,6301,Gastos de Viaje por Representación,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6309,6309,Otros Gastos de Representación,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6310,6310,Afiliación a Cámaras y Asociaciones Empresariales,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6319,6319,Otros Gastos por Afiliaciones,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6400,6400,Publicidad en Medios Digitales,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6401,6401,Publicidad en Medios Tradicionales,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6402,6402,Servicios de Agencia Publicitaria,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6403,6403,Rotulación e Imagen de Marca,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6404,6404,Producción y Diseño Digital,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6405,6405,Promocionales y Material Publicitario,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6408,6408,Descuentos por Ofertas y Promociones,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6409,6409,Otros Gastos de Publicidad y Mercadeo,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6509,6509,Otras Donaciones y Contribuciones,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6600,6600,Seguros de Inmueble,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6601,6601,Seguros de Maquinaria y Vehículos,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6609,6609,Otros Seguros Operativos,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6610,6610,Fianzas de Cumplimiento,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6619,6619,Otras Fianzas,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6700,6700,Gastos por Depreciación Terrenos y Bienes Naturales,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6701,6701,Gastos por Depreciación Edificios e Instalaciones,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6702,6702,Gastos por Depreciación Mobiliarioy Accesorios,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6703,6703,Gastos por Depreciación Equipos y Herramientas,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6704,6704,Gastos por Depreciación Maquinaria y Vehículos,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6705,6705,Gastos por Depreciación Propiedades en Construcción,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6709,6709,"Gastos por Depreciación Otros Activos Fijos",account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6710,6710,"Gastos por Amortización de Inversión en Investigación, Desarrollo y Organización",account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6711,6711,"Gastos por Amortización de Patentes, Marcas y Otros Derechos",account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6712,6712,Gastos por Amortización de Software y Desarrollo IT,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6713,6713,Gastos por Amortización de Licencias y Franquicias,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6714,6714,"Gastos por Amortización de Fórmulas, Modelos, Diseños y Prototipos",account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6715,6715,Gastos por Amortización de Contratos y Otros Derechos Adquiridos con Clientes y Proveedores,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6719,6719,Gastos por Amortización de Otros Activos Intangibles,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6800,6800,Gastos por Pago de Impuestos,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6801,6801,Gastos por Pago de Tasas Municipales,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6809,6809,Otros Gastos por Impuestos,account.data_account_type_depreciation,l10n_gt_coa.gt_coa_template,False
+6900,6900,Pérdidas por Diferencia Cambiaria,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6901,6901,Gastos por Intereses y Penalizaciones,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6902,6902,Gastos por Comisiones y Recargos Bancarios,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6903,6903,Gastos por Comisiones de Tarjeta de Crédito,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6904,6904,Gastos por Verificación de Cheques,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6909,6909,Otros Gastos Financieros,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6910,6910,Pérdidas por Faltantes de Caja,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6911,6911,Pérdidas por Venta de Activos,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6912,6912,Pérdidas por Cuentas Incobrables,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+6919,6919,Otros Gastos Varios,account.data_account_type_expenses,l10n_gt_coa.gt_coa_template,False
+
+
+
+
+
+
+
+
+
+
+
